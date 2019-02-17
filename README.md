@@ -17,3 +17,6 @@ This repository contains our code for the [Microsoft AI Challenge India 2018](ht
 |3|120 + 120 + 120|0.6981|
 |3|120 + 160 + 198|0.7107|
 |4|120 + 120 + 120 + 120|0.6899|
+
+### Credits
+[Fine-tune an instance of BertForMultipleChoice](https://github.com/huggingface/pytorch-pretrained-BERT/blob/master/examples/run_swag.py) by [Hugging Face](https://github.com/huggingface/pytorch-pretrained-BERT)
