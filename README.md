@@ -2,6 +2,8 @@
 # Learning to Rank
 This repository contains our code for the [Microsoft AI Challenge India 2018](https://competitions.codalab.org/competitions/20616#learn_the_details). Our solution is [Ranked 5th on Public Leaderboard giving 0.7114 MRR Score](https://competitions.codalab.org/competitions/20616#results).<br>
 
+Microsoft organized Microsoft AI Challenge 2018 for India in November 2018. The problem statement was to rank the right response to queries(web) given 10 possible responses.
+
 ## Overview of our approach - 
 * Fine-tuning [BERT](https://github.com/google-research/bert) with different sequence length
 * Ensembling results in different ways
